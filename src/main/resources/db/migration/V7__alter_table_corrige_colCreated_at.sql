@@ -1,0 +1,1 @@
+ALTER TABLE public.movie RENAME COLUMN create_at TO created_at;
